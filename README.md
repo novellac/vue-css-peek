@@ -1,6 +1,7 @@
 # Functionality
 
 为单页面的 vue 文件提供 css 转定义的支持
+Support peeking to CSS transitions as definitions from Vue files.
 
 # Contributing
 
